@@ -1,0 +1,39 @@
+
+@baseUrl = http://localhost:3000/api
+@resourceName = products
+
+### getAll
+GET {{baseUrl}}/{{resourceName}}
+
+###
+# @name Fillter
+GET {{baseUrl}}/{{resourceName}}?name_like=bacon
+###
+
+# @name Paganation
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=11
+
+###
+# @name sort
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=desc
+####
+
+# @name Add
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name" : "Reacts Javascriptz",
+    "description": "học JS"
+}
+### update
+PUT {{baseUrl}}/{{resourceName}}/17
+Content-Type: application/json
+
+{
+    "name" : "Reacts ",
+    "description": "học JS"
+}
+
+### remove
+DELETE  {{baseUrl}}/{{resourceName}}/17

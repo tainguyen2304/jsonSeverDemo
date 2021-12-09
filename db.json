@@ -1,0 +1,259 @@
+{
+  "categories": [
+    {
+      "id": "a902aaa0-d4d7-4648-a66a-3f1e6d65e2e1",
+      "name": "Beauty",
+      "createdAt": 1639024992119,
+      "updateAt": 1639024992119
+    },
+    {
+      "id": "26fda971-265e-48a7-82e7-da3a2376b8d1",
+      "name": "Shoes",
+      "createdAt": 1639024992119,
+      "updateAt": 1639024992119
+    },
+    {
+      "id": "0811f154-f0fd-47cd-8f41-d5833cc7ce9f",
+      "name": "Clothing",
+      "createdAt": 1639024992119,
+      "updateAt": 1639024992119
+    },
+    {
+      "id": "960778d8-1b61-4c26-9bb3-7be06b312a6c",
+      "name": "Health",
+      "createdAt": 1639024992119,
+      "updateAt": 1639024992119
+    },
+    {
+      "name": "Reacts ",
+      "description": "học JASDSADS",
+      "updatedAt": 1639029486852,
+      "id": "zJ-RFxz"
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "a902aaa0-d4d7-4648-a66a-3f1e6d65e2e1",
+      "id": "a0f0457d-1c36-4779-8fdc-3453aed08513",
+      "name": "Unbranded Cotton Salad",
+      "color": "black",
+      "price": 406,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": "2021-12-09T04:43:12.120Z",
+      "updatedAt": "2021-12-09T04:43:12.120Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "a902aaa0-d4d7-4648-a66a-3f1e6d65e2e1",
+      "id": "2ce312b3-7b33-4d6e-a98f-d48cec06c6bc",
+      "name": "Handcrafted Wooden Hat",
+      "color": "white",
+      "price": 512,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": "2021-12-09T04:43:12.120Z",
+      "updatedAt": "2021-12-09T04:43:12.120Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "a902aaa0-d4d7-4648-a66a-3f1e6d65e2e1",
+      "id": "d3f77c08-3883-4a92-baae-543ce30d053f",
+      "name": "Awesome Metal Pants",
+      "color": "indigo",
+      "price": 326,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": "2021-12-09T04:43:12.120Z",
+      "updatedAt": "2021-12-09T04:43:12.120Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "a902aaa0-d4d7-4648-a66a-3f1e6d65e2e1",
+      "id": "e1a4f6ad-799e-4714-80df-71de1fa456d6",
+      "name": "Gorgeous Concrete Bacon",
+      "color": "sky blue",
+      "price": 872,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": "2021-12-09T04:43:12.121Z",
+      "updatedAt": "2021-12-09T04:43:12.121Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "a902aaa0-d4d7-4648-a66a-3f1e6d65e2e1",
+      "id": "976d64ce-5b64-468e-b9ba-e8cd9ca2ad1e",
+      "name": "Fantastic Fresh Salad",
+      "color": "lavender",
+      "price": 64,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": "2021-12-09T04:43:12.121Z",
+      "updatedAt": "2021-12-09T04:43:12.121Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "26fda971-265e-48a7-82e7-da3a2376b8d1",
+      "id": "41d2ba56-edbe-4287-9736-aafd8104ca63",
+      "name": "Ergonomic Wooden Keyboard",
+      "color": "olive",
+      "price": 322,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": "2021-12-09T04:43:12.121Z",
+      "updatedAt": "2021-12-09T04:43:12.121Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "26fda971-265e-48a7-82e7-da3a2376b8d1",
+      "id": "fbc8e1cb-b6dd-4274-9090-497ff2314cde",
+      "name": "Refined Metal Chips",
+      "color": "salmon",
+      "price": 798,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": "2021-12-09T04:43:12.121Z",
+      "updatedAt": "2021-12-09T04:43:12.121Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "26fda971-265e-48a7-82e7-da3a2376b8d1",
+      "id": "92468c97-83a7-49c1-87c5-66df4f66c8c5",
+      "name": "Sleek Concrete Hat",
+      "color": "gold",
+      "price": 792,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": "2021-12-09T04:43:12.121Z",
+      "updatedAt": "2021-12-09T04:43:12.121Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "26fda971-265e-48a7-82e7-da3a2376b8d1",
+      "id": "c5c490a3-5f08-458b-b9ad-310d6526595b",
+      "name": "Tasty Fresh Bacon",
+      "color": "yellow",
+      "price": 921,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": "2021-12-09T04:43:12.121Z",
+      "updatedAt": "2021-12-09T04:43:12.121Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "26fda971-265e-48a7-82e7-da3a2376b8d1",
+      "id": "5679db8b-11dd-4ebe-9667-bd8bb0662d80",
+      "name": "Handmade Wooden Ball",
+      "color": "magenta",
+      "price": 755,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": "2021-12-09T04:43:12.121Z",
+      "updatedAt": "2021-12-09T04:43:12.121Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "0811f154-f0fd-47cd-8f41-d5833cc7ce9f",
+      "id": "cf3fe430-906d-4431-8208-879f98bca354",
+      "name": "Awesome Soft Hat",
+      "color": "white",
+      "price": 441,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": "2021-12-09T04:43:12.122Z",
+      "updatedAt": "2021-12-09T04:43:12.122Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "0811f154-f0fd-47cd-8f41-d5833cc7ce9f",
+      "id": "f2b2d2fd-16bb-45bd-b47a-aff11c6fa8b8",
+      "name": "Awesome Rubber Gloves",
+      "color": "silver",
+      "price": 261,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": "2021-12-09T04:43:12.122Z",
+      "updatedAt": "2021-12-09T04:43:12.122Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "0811f154-f0fd-47cd-8f41-d5833cc7ce9f",
+      "id": "96bf03f5-1b2d-4135-a954-f3dd0c53eed8",
+      "name": "Rustic Wooden Mouse",
+      "color": "silver",
+      "price": 938,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": "2021-12-09T04:43:12.122Z",
+      "updatedAt": "2021-12-09T04:43:12.122Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "0811f154-f0fd-47cd-8f41-d5833cc7ce9f",
+      "id": "eaed6d35-cae5-4100-b158-d4a511204064",
+      "name": "Ergonomic Plastic Ball",
+      "color": "green",
+      "price": 562,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": "2021-12-09T04:43:12.122Z",
+      "updatedAt": "2021-12-09T04:43:12.122Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "0811f154-f0fd-47cd-8f41-d5833cc7ce9f",
+      "id": "1622092d-6a25-4ffb-9d4e-e0e6bb32b1a7",
+      "name": "Intelligent Fresh Tuna",
+      "color": "indigo",
+      "price": 43,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": "2021-12-09T04:43:12.123Z",
+      "updatedAt": "2021-12-09T04:43:12.123Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "960778d8-1b61-4c26-9bb3-7be06b312a6c",
+      "id": "5e0d56ec-93ac-4b36-80c2-5a3a4b6e79cb",
+      "name": "Fantastic Granite Bacon",
+      "color": "yellow",
+      "price": 105,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": "2021-12-09T04:43:12.123Z",
+      "updatedAt": "2021-12-09T04:43:12.123Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "960778d8-1b61-4c26-9bb3-7be06b312a6c",
+      "id": "f4e8de48-a9e5-4f5b-b782-d8643b17d76b",
+      "name": "Handcrafted Frozen Bacon",
+      "color": "yellow",
+      "price": 697,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": "2021-12-09T04:43:12.123Z",
+      "updatedAt": "2021-12-09T04:43:12.123Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "960778d8-1b61-4c26-9bb3-7be06b312a6c",
+      "id": "36f401c3-62b9-4c02-9550-c491a571af05",
+      "name": "Sleek Steel Bacon",
+      "color": "indigo",
+      "price": 595,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": "2021-12-09T04:43:12.123Z",
+      "updatedAt": "2021-12-09T04:43:12.123Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "960778d8-1b61-4c26-9bb3-7be06b312a6c",
+      "id": "d360d7b3-58b3-4c4a-a368-90591ae38f32",
+      "name": "Refined Soft Chicken",
+      "color": "lime",
+      "price": 557,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": "2021-12-09T04:43:12.123Z",
+      "updatedAt": "2021-12-09T04:43:12.123Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    },
+    {
+      "categoryId": "960778d8-1b61-4c26-9bb3-7be06b312a6c",
+      "id": "f82d8f17-eb5c-4552-bb96-96f8840cddfa",
+      "name": "Incredible Plastic Chicken",
+      "color": "lavender",
+      "price": 138,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": "2021-12-09T04:43:12.123Z",
+      "updatedAt": "2021-12-09T04:43:12.123Z",
+      "thumbnailUrl": "http://placeimg.com/444/444"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}

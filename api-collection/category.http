@@ -1,0 +1,32 @@
+
+@baseUrl = http://localhost:3000/api
+@resourceName = categories
+###
+
+# read
+GET {{baseUrl}}/{{resourceName}}
+
+####
+
+# @name Add
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name" : "Reacts Javascriptz",
+    "description": "học JS"
+}
+###
+
+# update
+PUT {{baseUrl}}/{{resourceName}}/zJ-RFxz
+Content-Type: application/json
+
+{
+    "name" : "Reacts ",
+    "description": "học JASDSADS"
+}
+
+###
+# remove
+DELETE  {{baseUrl}}/{{resourceName}}/17
