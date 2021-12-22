@@ -21,6 +21,7 @@ const randomCategoryList = (n) => {
 
     return categoryList;
 }
+
 const randomProductList = (categoryList , numberOfProducts) => {
     if(numberOfProducts <= 0) return [];
 
@@ -37,17 +38,18 @@ const randomProductList = (categoryList , numberOfProducts) => {
                 description: faker.commerce.productDescription(),
                 createdAt: new Date(),
                 updatedAt: new Date(),
-                thumbnailUrl: faker.image.imageUrl(444,444),
+                thumbnailUrl: faker.image.fashion(444,444),
             }
             productList.push(product)
         })
     }
     return productList;
 }
+
 ;(()=>{ 
     // random data
-    const categoryList = randomCategoryList(4)
-    const productList = randomProductList(categoryList, 5)
+    const categoryList = randomCategoryList(10)
+    const productList = randomProductList(categoryList, 20)
    //prepair db object
     const db = {
         categories: categoryList,
