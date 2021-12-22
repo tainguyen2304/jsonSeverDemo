@@ -3,6 +3,7 @@ const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
 const queryString = require('query-string')
+
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares)
 
@@ -21,7 +22,6 @@ server.use((req, res, next) => {
   }
   else if (req.method === 'PATCH' || req.method === 'PUT') {
     req.body.updatedAt = Date.now()
-
   }
   // Continue to JSON Server router
   next()
@@ -32,6 +32,7 @@ router.render = (req, res) => {
     const headers = res.getHeaders();
 
     const totalCounteHeader = headers['x-total-count']
+    
     if(req.method === 'GET' && totalCounteHeader) {
         const queryParams  = queryString.parse(req._parsedUrl.query);
         const result = {
@@ -44,6 +45,8 @@ router.render = (req, res) => {
         }
         return res.jsonp(result)
     }
+
+
     res.jsonp(res.locals.data)
 }
 
